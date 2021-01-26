@@ -1,11 +1,3 @@
-Name: Hyrum Nantais
-
-Student Number: 1105303
-
-Email: hnantais@uoguelph.ca
-
-Note: The work done for this assignment was completed on my behalf, without copying or hiring anyone's work or advice on completing the program.
-
 # Compilation Requirements
 In order to compile the program, one must be using gradle 6.0 or newer
 To run the program, you must also be using OpenJDK 11 or newer
